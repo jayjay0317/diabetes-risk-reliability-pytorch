@@ -10,6 +10,27 @@ This repository explores how deep learning models behave in preventative healthc
 
 ---
 
+## Previous End-to-End Deployment Project
+
+This repository extends my previous production-oriented diabetes risk prediction system built using scikit-learn, Flask, Streamlit, Docker, and AWS deployment infrastructure.
+
+Previous project repository:
+- [Diabetes ML Pipeline Analysis](https://github.com/jayjay0317/Diabetes-ML-Pipeline-Analysis)
+
+The earlier project focused primarily on:
+- End-to-end deployment engineering
+- Clinical risk threshold optimization
+- Class imbalance handling
+- Production API infrastructure
+
+This repository instead focuses on:
+- PyTorch deep learning models
+- Reliability and calibration analysis
+- Uncertainty estimation
+- Research-oriented experimentation
+
+---
+
 ## Research Motivation
 
 Clinical risk prediction models often operate under highly imbalanced conditions where standard accuracy metrics can be misleading.
